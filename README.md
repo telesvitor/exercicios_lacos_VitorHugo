@@ -1,1 +1,1 @@
-# exercicios_la-os_VitorHugo
+# exercicios_lacos_VitorHugo
