@@ -1,6 +1,5 @@
-let numeroImpar = 1;
-
+let x = 1;
 do {
-  console.log(numeroImpar);
-  numeroImpar += 2; // Pula para o próximo ímpar
-} while (numeroImpar <= 15);
+  console.log(x);
+  x+=2
+}while (x <= 15)

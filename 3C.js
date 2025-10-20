@@ -1,9 +1,9 @@
-let contadorSoma = 1;
-let somaTotal = 0;
+let soma = 1;
+let total = 0;
 
 do {
-  somaTotal += contadorSoma;
-  contadorSoma++;
-} while (contadorSoma <= 5);
+  total += soma;
+  soma++;
+} while (soma <= 5);
 
-console.log("A soma de 1 a 5 é:", somaTotal);
+console.log(total);
